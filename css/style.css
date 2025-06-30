@@ -1,3 +1,10 @@
-body{
-    background-color: rgb(156, 130, 179);
+#ul :hover{
+    background-color: #b1afaf;
+    cursor: pointer;
+    color: antiquewhite;
+  
+}
+h2{
+   padding: 30px 19px; 
+   font-size: medium;
 }
