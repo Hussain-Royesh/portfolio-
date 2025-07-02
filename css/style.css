@@ -1,3 +1,8 @@
+body{
+    background-color: #e72c81;
+    font-family: 'Arial', sans-serif;
+}
+
 #ul li a{
     border: 1px solid #514d4d;
     border-radius: 5px; 
