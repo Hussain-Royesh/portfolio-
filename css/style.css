@@ -1,3 +1,9 @@
+@media(min-width: 768px) {
+  .news_input{
+    width: 50%;
+    margin: auto;
+  }
+}
 body{
     background-color: #e72c81;
     font-family: 'Arial', sans-serif;
@@ -21,4 +27,8 @@ body{
     display: flex;
 
 }
-
+#showcase{
+    padding: 100px;
+    margin: 40px;
+    
+}
